@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moodtec.github.io/store_sitemap/sitemap.xml
