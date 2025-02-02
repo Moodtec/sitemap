@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://moodtec.github.io/store_sitemap/sitemap.xml
+Sitemap: https://moodtec.github.io/sitemap/store_sitemap.xml
 Sitemap: https://moodtec.github.io/sitemap/sitemapchastitysa.xml
 Sitemap: https://moodtec.github.io/sitemap/sitemap.xml
