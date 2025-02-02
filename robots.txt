@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
 Sitemap: https://moodtec.github.io/store_sitemap/sitemap.xml
+
+User-agent: *
+Allow: /
+Sitemap: https://moodtec.github.io/sitemap/sitemapchastitysa.xml
+
+User-agent: *
+Allow: /
+Sitemap: https://moodtec.github.io/sitemap/sitemap.xml
